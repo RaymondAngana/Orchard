@@ -2,7 +2,9 @@
 
 
 PHP: 8.1.23
+
 DB: MYsql 8.0.16
+
 CMS: Wordpress 6.5.3
 
 ## Task 1 Config:
